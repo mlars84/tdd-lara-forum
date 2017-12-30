@@ -12,3 +12,7 @@
 - $ mysql -uroot -p
 - $ create database forum;
 - $ php artisan migrate
+- $ php artisan make:model Reply -mc
+
+## php artisan tinker
+- $ 
